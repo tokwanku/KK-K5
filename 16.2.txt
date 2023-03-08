@@ -1,0 +1,17 @@
+page login warden : button reset : lulus
+
+page warden/ senarai pelajar : button kemaskini : lulus
+
+page warden/ senarai pelajar : button padam rekod : lulus
+
+page warden/ senarai pelajar : button set semula data : lulus
+
+page pelajar : button sejarah transaksi : lulus
+
+page pelajar : button lakukan pembayaran : lulus
+
+page pelajar : button logout : lulus
+
+page warden/ tunggakan : button kembali ke dashboard : gagal :id- 07
+
+page warden/ tambah pelajar : button hantar borang : gagal :id- 08
